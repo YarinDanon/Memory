@@ -2,6 +2,8 @@
 Simulate virtual memory by management technique and demand by paging method - to management memory system only the demanded page of the process will store into the ram pages that has been changed will be store into the swap file
 
 program flow chart :
+
+
 <img width="362" alt="memorySimulate" src="https://user-images.githubusercontent.com/49116851/68526229-44e5d980-02e2-11ea-86e1-c1bdecb57cf9.png">
 
 This program simulates access to the physical memory while using paging mechanism
