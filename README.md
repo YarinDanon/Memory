@@ -4,7 +4,7 @@ Simulate virtual memory by management technique and demand by paging method - to
 program flow chart :
 
 
-<img width="362" alt="memorySimulate" src="https://user-images.githubusercontent.com/49116851/68526229-44e5d980-02e2-11ea-86e1-c1bdecb57cf9.png">
+<img width="700" alt="memorySimulate" src="https://user-images.githubusercontent.com/49116851/68526229-44e5d980-02e2-11ea-86e1-c1bdecb57cf9.png">
 
 This program simulates access to the physical memory while using paging mechanism
 how to install the program: open linux terminal, navigate to the folder containing ex5 using the "cd" command (confirm it by using ls command) incase you have makefile, type make and the program will automaticily be compiled, if you don't, type gcc -Wall mem_sim.c main.c -o ex5
