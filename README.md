@@ -1,5 +1,4 @@
-# Memory
-Program objective: Simulating Physical Memory and Paging methods. 
-Program Files: mem_sim.c, mem_sim.h, main.c, makefile, README.txt
-The program uses a file named 'exe_file'. without it --> the program will CRASH.
-Output: Depends on main.c with current main, outputs the loads and stores calls and finally, prints the page table and physical memory state.
+# virtual-memory-management
+Simulate virtual memory by management technique and demand by paging method - to management memory system only the demanded page of the process will store into the ram pages that has been changed will be store into the swap file
+
+program flow chart :
